@@ -1,0 +1,29 @@
+body{
+  background-color: burlywood;
+}
+
+#pie-Div{
+  display:flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  flex-direction: row
+}
+
+.card{
+  margin: 25px;
+  border: solid black 5px;
+}
+
+.pie{
+  text-align: center;
+}
+
+img{
+  width: 200px;
+  height: 200px;
+  border-radius:50%;
+}
+
+.btnDiv{
+  text-align: center;
+}
